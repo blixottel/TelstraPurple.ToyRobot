@@ -1,0 +1,16 @@
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.csproj.AssemblyReference.cache
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.AssemblyInfoInputs.cache
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.AssemblyInfo.cs
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.csproj.CoreCompileInputs.cache
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\bin\Debug\net5.0\ToyRobot.exe
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\bin\Debug\net5.0\ToyRobot.deps.json
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\bin\Debug\net5.0\ToyRobot.runtimeconfig.json
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\bin\Debug\net5.0\ToyRobot.runtimeconfig.dev.json
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\bin\Debug\net5.0\ToyRobot.dll
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\bin\Debug\net5.0\ToyRobot.pdb
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.dll
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\refint\ToyRobot.dll
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.pdb
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ToyRobot.genruntimeconfig.cache
+D:\Development\C#.TelstraPurple.Demo\ToyRobot\obj\Debug\net5.0\ref\ToyRobot.dll
